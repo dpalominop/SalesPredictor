@@ -1,7 +1,5 @@
 name: leads
 channels:
-  - fastai
-  - pytorch
   - defaults
   - conda-forge
 dependencies:
