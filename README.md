@@ -33,6 +33,12 @@ Machine Learning model to predict sales based on lead's lifecycle.
 4. Open a browser and write in url:
 
     ```localhost:8888```
+5. For a review of analysis, check the notebook:
+    
+    ```1.0-exploratory-analysis.ipynb```
+7. For a review of model's building, check the notebook:
+    
+    ```2.0-experiment-model.ipynb```
     
 # Help?
 
