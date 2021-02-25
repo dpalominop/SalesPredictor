@@ -1,0 +1,18 @@
+name: leads
+channels:
+  - fastai
+  - pytorch
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - seaborn==0.9.0
+  - scikit-learn
+  - jupyterlab
+  - xlrd
+  - openpyxl
+  - nodejs
+  - jupyterlab_server
+  - notebook
+  - keras-gpu
+prefix: D:\opt\conda\envs\leads
